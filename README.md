@@ -1,8 +1,13 @@
-# Projeto 01 
+# Projeto 01  - Introdução HTML/CSS
 
-## Móveis Customizados
+*Móveis Customizados - Ambientes únicos para você*
 
-Projeto de introdução a programação HTML e CCS.
+## Imagem:
+
+![image](https://github.com/rovedabr/RS.Proj_1/assets/118762335/c91e347a-8900-41fd-b574-019a5901a3b8)
+
+
+## Projeto de introdução a programação HTML e CCS.
 
 - Estruturação semântica;
 - Posicionmento e orientação de elementos.
